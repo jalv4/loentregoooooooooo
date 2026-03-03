@@ -19,7 +19,7 @@ body {
    width: 100%;
    z-index: 999;
    background: linear-gradient(
-     135deg, #051570, #3122a7
+     135deg, #051570, #051570
    );
  }
    
@@ -219,10 +219,10 @@ body {
     top: 0;
      background: linear-gradient(
      to right,
-     #3122a7,
+     #212BB0,
      #051570 20%,
      #051570 80%,
-     #3122a7
+     #212BB0
    )
   }
 
@@ -592,4 +592,5 @@ body {
  to {
    opacity: 1;
  }
+
 }
